@@ -2,6 +2,8 @@
 
 <div align="center">
 
+更详细的解释请浏览(网站)[https://www.beautyhubcode.com/docs/CodeandData/Programming-Languages/Linux/git.html]
+
 **完整的 Git 学习资料 - 从入门到精通**
 
 [![License](https://img.shields.io/badge/license-MIT-blue.svg)](LICENSE)
