@@ -2,7 +2,7 @@
 
 <div align="center">
 
-更详细的解释请浏览(网站)[https://www.beautyhubcode.com/docs/CodeandData/Programming-Languages/Linux/git.html]
+更详细的解释请浏览[git底层学习与理解](https://www.beautyhubcode.com/docs/CodeandData/Programming-Languages/Linux/git.html)
 
 **完整的 Git 学习资料 - 从入门到精通**
 
@@ -158,6 +158,6 @@ cd gitLearn
 
 **⭐ 如果这个项目对你有帮助，请给一个 Star！**
 
-Made with ❤️ by [beautyhubcode](https://github.com/beautyhubcode)
+Made with ❤️  by [beautyhubcode](https://github.com/beautyhubcode)
 
 </div>
