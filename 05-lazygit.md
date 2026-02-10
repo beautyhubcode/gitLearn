@@ -39,11 +39,15 @@ Lazygit给了更方便的操作，在[04]工作栏中点击`commit`，然后会�
 
 分支是git的核心，也是git的精髓
 
+**创建分支**
+
 在文件目录中进入bash，输入`lazygit`，切换到lazygit界面
 
 在[03]的工作区域，点击`Local branch`，最下方会有提示
 
 > checkout<space>; New Branch<n>; delete<d>; Rebase<r>; Reset<g>; Upsteam<u>; Merge<m>; Stash<s>; Rename<Enter>
+
+**切换分支**
 
 - 按`n`进入到创建分支的界面，输入分支的名称，确认`Enter`就可,默认直接切换到`dev`分支，等价于`git switch -c dev`或旧版的命令`git checkout -b dev`
 
@@ -51,4 +55,6 @@ Lazygit给了更方便的操作，在[04]工作栏中点击`commit`，然后会�
 - 按`Space(空格)` 是最稳妥的切换和检出(checkout)
 - 按`Enter`现在就是展开commit，而不是切换了，需要注意
 - 如果进入预览了，按`Esc`或`q` 即可回到左侧的分支选择列表
+
+**合并分支**
 
